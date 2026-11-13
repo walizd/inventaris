@@ -1,0 +1,3 @@
+# Mengabaikan file sistem atau konfigurasi lokal jika diperlukan
+.DS_Store
+Thumbs.db
